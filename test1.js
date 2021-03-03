@@ -1,0 +1,1 @@
+const degree = 1;
